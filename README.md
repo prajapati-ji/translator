@@ -1,0 +1,2 @@
+# translator
+using python tkinter
